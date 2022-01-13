@@ -11,8 +11,7 @@ app.use(express.static('public'));
 
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
-app.use('/notes', htmlRoutes);
-// api routes
+
 app.listen(PORT, () => {
   console.log(`your server is at http://localhost:${PORT}`);
 })
