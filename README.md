@@ -16,11 +16,12 @@ I learned about creating a server with express, connecting it to client side js 
 clone the repo.
 
 ## Usage
-a walk through of the application can be found at.
 
-need to add video
+Link to the live site can be found below:
+https://jasonwisniewski.github.io/note-taker/
 
-![](./assets/images/screenshot.png)
+![](.public/assets/images/screen-shot.png)
+![](.public/assets/images/screen-shot2.png)
 
 This can be used by anyone who wants to keep track of their notes.
 
