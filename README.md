@@ -18,7 +18,9 @@ clone the repo.
 ## Usage
 
 Link to the live site can be found below:
-https://jasonwisniewski.github.io/note-taker/
+
+https://git.heroku.com/mighty-gorge-52183.git
+
 
 ![screenshot](./public/assets/images/screen-shot.png)
 ![screenshot](./public/assets/images/screen-shot2.png)
