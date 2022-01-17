@@ -20,8 +20,8 @@ clone the repo.
 Link to the live site can be found below:
 https://jasonwisniewski.github.io/note-taker/
 
-![]('.public/assets/images/screen-shot.png')
-![]('.public/assets/images/screen-shot2.png')
+![screenshot](./public/assets/images/screen-shot.png)
+![screenshot](./public/assets/images/screen-shot2.png)
 
 This can be used by anyone who wants to keep track of their notes.
 
